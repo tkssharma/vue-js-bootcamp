@@ -1,4 +1,4 @@
-# zota-web-app
+# Vue JS with Firebase
 
 ## Project setup
 ```
