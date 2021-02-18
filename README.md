@@ -1,4 +1,5 @@
 # Vue JS with Firebase
+https://www.youtube.com/watch?v=QUMFlnoCWm0&list=PLIGDNOJWiL1-e4wk0r143yKcu56XUJzgZ&ab_channel=Codewithtkssharma
 
 ## Project setup
 ```
